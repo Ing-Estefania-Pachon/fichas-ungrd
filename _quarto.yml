@@ -15,3 +15,5 @@ format:
   html:
     theme: cosmo
     toc: true
+    df-print: paged      # Hace que las tablas muy largas tengan paginación
+    html-table-processing: none # Evita que Quarto rompa las tablas complejas de Markdown
