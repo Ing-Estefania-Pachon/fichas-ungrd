@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Fichas de Riesgo UNGRD"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Departamentos"
+        contents: "fichas/**/*.qmd"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
