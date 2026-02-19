@@ -5,7 +5,7 @@ toc: true
 frozen: false
 ---
 
-![](media/img_88527b.png)
+![](media/img_ff9aa5.png)
 
   
 
@@ -320,11 +320,11 @@ Por otra parte, el ordenamiento territorial se rige por la Ley 388 de 1997, que 
 
 ### <a id="_Toc222241863"></a>2\.1\. Ubicación y límites\.
 
-El departamento de Córdoba está ubicado en la región Caribe de Colombia, es decir Córdoba se ubica al noroccidente del territorio colombiano\. Sus límites geográficos son para la zona Este con los departamentos de Sucre y Bolívar, al Sur y Suroeste con Antioquia, y al Oeste con el mar Caribe \(ver Figura 1\)\.![Mapa Municipios departamento de Córdoba](media/img_aa789e.jpeg)
+El departamento de Córdoba está ubicado en la región Caribe de Colombia, es decir Córdoba se ubica al noroccidente del territorio colombiano\. Sus límites geográficos son para la zona Este con los departamentos de Sucre y Bolívar, al Sur y Suroeste con Antioquia, y al Oeste con el mar Caribe \(ver Figura 1\)\.![Mapa Municipios departamento de Córdoba](media/img_1f51d1.jpeg)
 
                                                                    
 
-![](media/img_4fd8cc.jpeg)<a id="_Toc216554589"></a>FIGURA\. 1 Mapa Político Administrativo del Departamento de Córdoba\.   
+![](media/img_f491f8.jpeg)<a id="_Toc216554589"></a>FIGURA\. 1 Mapa Político Administrativo del Departamento de Córdoba\.   
 Fuente: IGAC \(2002\)\.
 
 <a id="_heading=h.veet4w3iam8m"></a>__*link: *__[__*https://www\.todacolombia\.com/departamentos\-de\-colombia/cordoba/municipios\-division\-politica\.html*__](https://www.todacolombia.com/departamentos-de-colombia/cordoba/municipios-division-politica.html)__* *__
@@ -507,13 +507,13 @@ La proyección para el año 2035 es de 2\.038\.014 habitantes, mostrando un crec
 
 En cuanto a la distribución por género, se evidencia que las mujeres tienden a vivir más que los hombres, siendo más numerosas en los grupos de edad de 70 años en adelante, lo que corresponde con una mayor esperanza de vida femenina\. En lo que respecta a la ubicación de la población, se identifica que tiene porcentajes similares en lo que respecta a la zona rural \(48,9%\) de la urbana \(51,1%\)\.
 
-![](media/img_ef0b41.png)
+![](media/img_f5b031.png)
 
-![](media/img_90d211.png)
+![](media/img_b6313a.png)
 
-![](media/img_1a4a8e.png)
+![](media/img_daa322.png)
 
-![](media/img_8e5c54.png)
+![](media/img_af3f7e.png)
 
 <a id="_Toc216554590"></a>FIGURA\. 2 Distribución demográfica del departamento de Córdoba\.   
 FUENTE: Tomado de la proyección DANE \(2024\), pg\. 1 y 2\.*   
@@ -525,7 +525,7 @@ LINK: [https://terridata\.blob\.core\.windows\.net/fichas/Ficha\_23000\.pdf](htt
 
 SECTORES PRODUCTIVOS PREDOMINANTES\.
 
-![](media/img_dd018b.png)
+![](media/img_a786f0.png)
 
 <a id="_Toc216554591"></a>FIGURA\. 3 Participación por actividad económica en el departamento de Córdoba\. 2022\. Fuente: UPRA\-DANE, pg\. 8\.
 
@@ -930,12 +930,12 @@ Para el componente geológico del departamento fue necesario la revisión de inf
 
 A continuación, se anexa una visualización del geoportal o portal web elaborado por técnicos y expertos del Servicio Geológico Colombiano \(SGC\), para el uso y conocimiento libre de información geológica de todo el territorio colombiano, a escala 1:1’500\.000\. El link de acceso al portal web se anexa en las referencias del documento\.
 
-![](media/img_652e5c.png)
+![](media/img_ab6d90.png)
 
 <a id="_Toc216554592"></a>FIGURA 4 MAPA GEOLOGICO DE COLOMBIA, ESCALA 1:1'500\.000\.   
 FUENTE: Gómez, J\., Montes, N\.E\. & Marín, E\., compiladores\. 2023\.
 
-![](media/img_12ec5c.png)
+![](media/img_a002f0.png)
 
 <a id="_Toc216554593"></a>FIGURA\. 5 Mapa geológico de Córdoba, pagina 74\.   
 FUENTE: Plan Departamental de Gestión del Riesgo de Desastres \- PDGRD \(2022 \- 2031\), pg\. 82\.
@@ -1008,7 +1008,7 @@ Según el Acuerdo 11 de 2008 de la Agencia Nacional de Hidrocarburos \(ANH\) se 
 
 Para Colombia se establecen actualmente 23 cuencas sedimentarias identificadas con potencial petrolero y para hidrocarburos no convencionales en Colombia\. Entre ellas, destacan la cuenca Sinú‑San Jacinto por sus reservas de gas no convencional \(CBM y áreas en exploración\), mientras que otras como las del Magdalena y Llanos Orientales son ya cuencas maduras con exploración convencional y no convencional en desarrollo\. La cuenca sedimentaria correspondiente al departamento de Córdoba es la cuenca Sinú\-San Jacinto \(SSJ\) con 69\.221 kilometros cuadrados, 205 pozos y 3 campos de explotación de gas\. \(Ver la Figura 6\)
 
-![](media/img_534a2f.png)
+![](media/img_c97248.png)
 
 <a id="_Toc216554594"></a>FIGURA 6 Cuencas sedimentaria Sinú\-San Jacinto \(SSJ\) en el departamento de Córdoba\. FUENTE: ANH \(2011\)
 
@@ -1018,7 +1018,7 @@ Mediante el Acuerdo 04 de 2017, la Agencia Nacional de Hidrocarburos \(ANH\) abr
 
 En un inicio, las primeras actividades de explotación de gas natural permitieron identificar yacimientos en los municipios de Sahagún y Chinú\. Sin embargo, según el Informe de Reservas y Recursos 2023, elaborado por la Agencia Nacional de Hidrocarburos \(ANH\) y con base en los avisos de descubrimientos importantes de gas entre 2022 y 2024, se reportaron nuevos yacimientos en los municipios de Pueblo Nuevo y Sahagún\. Estos hallazgos están siendo desarrollados por empresas operadoras como CLEANENERGY RESOURCES S\.A\.S\., CNE OIL & GAS, entre otras, las cuales contribuyen al desarrollo del gasoducto El Jobo – Mamonal, infraestructura que transporta gas hacia la refinería de Cartagena\. \(Ver Figura 7\)
 
-![](media/img_5b77d4.jpeg)
+![](media/img_2a675d.jpeg)
 
 <a id="_Toc216554595"></a>FIGURA\. 7 Mapa de las redes de gasoductos en la costa caribe\. FUENTE: Promigas \(2025\)
 
@@ -1033,7 +1033,7 @@ De acuerdo con el análisis departamental realizado por el IDEAM \(2014\), el de
 1. Sinú, San Jorge, Bajo Nechí\. \(Color azul\)
 2. Urabá y Bajo Magdalena\. \(Color amarillo\) 
 
-![](media/img_c195ab.png)
+![](media/img_d3df2a.png)
 
 <a id="_Toc216554596"></a>FIGURA\. 8 Regiones climáticas en el Departamento de Córdoba, pagina 7\.   
 Fuente: FAO\-IDEAM \(2022\)\.
@@ -1053,11 +1053,11 @@ En cambio, la temporada seca ocurre en los primeros meses del año y al final de
 
 ### <a id="_Toc222241880"></a>3\.4\. Variabilidad climática: en relación con los fenómenos de “el niño” y “la niña”, utilizando registros del IDEAM \(1975\-2020\)\.
 
-![](media/img_0ce11f.png)![](media/img_9488b6.png)
+![](media/img_e80783.png)![](media/img_2d57c0.png)
 
-![](media/img_4748f8.png)
+![](media/img_cfa99d.png)
 
-![](media/img_04b89b.png)
+![](media/img_df90a0.png)
 
 <a id="_Toc216554597"></a>FIGURA 9\. Variabilidad climática del “Niño” y “Niña” en las regiones climáticas, páginas 10 y 11\. Fuente: FAO \(2022\)\. 
 
@@ -1098,7 +1098,7 @@ I
 
 Infraestructura
 
-![](media/img_54d5dc.png)
+![](media/img_5a215a.png)
 
 <a id="_Toc216554598"></a>FIGURA 10 Indicadores de la tercera comunicación de cambio climático del departamento\.   
 FUENTE: Tomado de IDEAM & UNGRD \(2025\)\.
@@ -1127,7 +1127,7 @@ El componente de capacidad adaptativa revela una situación preocupante: la mayo
 
 Los municipios con mayores valores de riesgo total, como San Bernardo del Viento, Lorica, Cereté y Montería, se localizan en zonas bajas y costeras del Sinú y San Jorge, las cuales son altamente expuestas a inundaciones y aumentos del nivel del mar, según los escenarios modelados a 2040–2070\.
 
-![](media/img_ec7f94.png)
+![](media/img_925ac1.png)
 
 <a id="_Toc216554599"></a>FIGURA 11 Indicadores de cambio climático por municipio del departamento de Córdoba\. Fuente: Tomado de IDEAM \(2022\)\.
 
@@ -1163,7 +1163,7 @@ En términos generales, los expertos del IPCC establecen cinco escenarios posibl
 
 <a id="_heading=h.vb086fdxlgfx"></a>
 
-![](media/img_516dbe.png)
+![](media/img_23f750.png)
 
 <a id="_Toc216554600"></a>FIGURA 12 ESCENARIOS DE CAMBIO CLIMATICO PROYECTADOS  POR AR 6\. FUENTE: Escoto Castillo et al \. \(2017\)
 
@@ -1181,13 +1181,13 @@ Referente al comportamiento de la precipitación: Los resultados del IDEAM indic
 
 Referente a las tendencias de temperatura: Las proyecciones térmicas revelan un aumento sostenido de la temperatura media anual en Córdoba, tanto en los valores máximos como mínimos\. El incremento de la temperatura máxima se proyecta entre \+1,5 °C y \+3 °C hacia mediados de siglo, y podría alcanzar \+4 °C o más bajo los escenarios SSP3 y SSP5 para finales del siglo XXI\. Paralelamente, la temperatura mínima aumenta en rangos similares, lo cual reduce la amplitud térmica diaria y modifica los ciclos de evapotranspiración\. Este calentamiento homogéneo podría provocar estrés térmico en cultivos tropicales, reducción de rendimientos agrícolas y mayor demanda energética por refrigeración en centros urbanos como Montería y Lorica\. A nivel ecosistémico, se espera un desplazamiento altitudinal de especies, pérdida de hábitats húmedos y afectación a la biodiversidad ribereña del Sinú\.
 
-![](media/img_4aca73.png)
+![](media/img_01bb87.png)
 
 <a id="_Toc216554601"></a>FIGURA 13 TENDENCIAS Y PROYECCIONES PARA LOS ESCENARIOS DE PRECIPITACION AL DEPARTAMENTO DE CORDOBA\. FUENTE: IDEAM \(2025\)
 
 LINK: [https://drive\.google\.com/file/d/1F0r1mJKU387P8f3dV2EZAcpNrfoGNYoS/view?usp=drive\_link](https://drive.google.com/file/d/1F0r1mJKU387P8f3dV2EZAcpNrfoGNYoS/view?usp=drive_link) 
 
-![](media/img_334ed2.png)
+![](media/img_9f4d06.png)
 
 <a id="_Toc216554602"></a>FIGURA 14 TENDENCIAS Y PROYECCIONES PARA LOS ESCENARIOS DE TEMPERATURAS MAXIMAS ANUALES EN EL DEPARTAMENTO DE CORDOBA\. FUENTE: IDEAM \(2025\)
 
@@ -1214,7 +1214,7 @@ En un informe del año 2005, la CVS, muestra la subregionalización ambiental de
 5. San Jorge, constituida por los municipios de Planeta Rica, Montelíbano, Buenavista, Puerto Libertador, Ayapel y San José de Uré\.
 6. Costanera, constituida por los municipios de San Antero, San Bernardo del Viento, Moñitos, Los Córdobas, Canalete y Puerto Escondido\.
 
-![](media/img_bd1645.png)
+![](media/img_dbddf0.png)
 
 <a id="_Toc216554603"></a>FIGURA 15  Mapa de las subregiones ambientales del departamento\. FUENTE: Fundación Herencia Ambiental Caribe \(2020\)
 
@@ -1294,7 +1294,7 @@ San Marcos
 
 1
 
-![](media/img_c3c898.png)
+![](media/img_c728ba.png)
 
 <a id="_Toc216554604"></a>FIGURA 16 Visor web del ICANH\. Fuente: [https://geoparques\.icanh\.gov\.co/\#/](https://geoparques.icanh.gov.co/#/)
 
@@ -1309,9 +1309,9 @@ Link del RUNAP para Córdoba: [*https://runap\.parquesnacionales\.gov\.co/area\-
 <a id="_Toc216552979"></a>Tabla 9 Ecosistemas estratégicos registrados en el RUNAP\.   
 Fuente: Autores adaptado del RUNAP \(2025\)\.
 
-![](media/img_eb207d.png)
+![](media/img_8d0c20.png)
 
-![](media/img_2a9970.png)
+![](media/img_90f19c.png)
 
 <a id="_Toc216554605"></a>FIGURA 17 Áreas protegidas en el Departamento de Córdoba\.   
 Fuente: RUNAP – PNN \(2025\)\.
@@ -1452,7 +1452,7 @@ Rio Mangle y otros arroyos del Caribe
 
 A continuación, se expone el mapa de la distribución de la red hidrográfica del departamento de Córdoba, en base del mapa digital del IGAC \(2002\), este insumo grafico permite visualizar los principales ríos, los cuerpos de agua más representativos del departamento, las cabeceras municipales \(color rojo\) y puertos fluviales y marítimos en el departamento\. \(Ver figura 17\)
 
-![Mapa Hidrografía Córdoba](media/img_88d1fe.jpeg)
+![Mapa Hidrografía Córdoba](media/img_4f09f1.jpeg)
 
 <a id="_Toc216554606"></a>FIGURA 18 Mapa hidrográfico del departamento de Córdoba\.   
 FUENTE: Sociedad Geográfica de Colombia
@@ -1467,7 +1467,7 @@ Desde la adopción de la Ley 1523, Colombia ha experimentado un cambio de perspe
 
 La gráfica circular muestra que la inundación representa la amenaza más frecuente, con un 51,2%, seguida por los incendios forestales con un 20,5%\. Otras amenazas relevantes son los vendavales \(11,2%\) y los incendios estructurales \(aprox\. 5%\)\. Las amenazas como sequía, deslizamientos, avenidas torrenciales, lluvias y desabastecimiento de agua tienen una participación menor, pero significativa\. Esta distribución sugiere que la gestión del riesgo debe priorizar medidas frente a inundaciones y fenómenos climáticos extremos\.
 
-![](media/img_b91ecb.png)
+![](media/img_758a0e.png)
 
 <a id="_Toc216554607"></a>FIGURA\. 19 Consolidado de eventos históricos en el Departamento de Córdoba \(1938\-2023\)\. Fuente: UNGRD \(2024\)
 
@@ -1475,13 +1475,13 @@ Según el visor de consolidado de emergencias se reportaron 2\.088 eventos duran
 
  
 
-![](media/img_cfc154.png)
+![](media/img_3ca429.png)
 
 <a id="_Toc216554608"></a>FIGURA 20 Reporte de afectaciones por eventos presentados en el departamento de Córdoba \(1938\-2024\)\. Fuente: UNGRD \(2024\)
 
 ### <a id="_Toc222241892"></a>5\.1\.2\. Análisis de los municipios con más reportes de emergencias \(1938\-2023\)\.
 
-![](media/img_176e51.png)
+![](media/img_7ca14b.png)
 
 <a id="_Toc216554609"></a>FIGURA 21 Reporte de afectaciones en municipios por eventos presentados en el departamento de Córdoba \(1938\-2024\)\. Fuente: UNGRD \(2024\)
 
@@ -1553,7 +1553,7 @@ En este contexto, la baja resistencia estructural de las viviendas y edificacion
 
 Históricamente, los municipios más afectados por vendavales en Córdoba son aquellos situados en las cuencas de los ríos Sinú y San Jorge, así como en la subregión Costanera, destacándose Moñitos, Canalete y San Bernardo del Viento, junto con Pueblo Nuevo y Tuchín, que han registrado eventos de gran magnitud \(CVS, 2018\)\. 
 
-![](media/img_8211f9.png)
+![](media/img_9457ca.png)
 
 <a id="_Toc216554610"></a>FIGURA 22 Mapa de municipios afectados por vendavales en el departamento de Córdoba\. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS \(2021\), versión pdf, pg\. 251\.
 
@@ -1567,7 +1567,7 @@ La variabilidad climática ha hecho que zonas específicas, como la región cost
 
 El sector eléctrico también enfrenta desafíos debido a la reducción del caudal de los embalses, lo que limita la generación hidroeléctrica y obliga a un mayor uso de energía térmica\. En el sector agropecuario, la sequía impacta la producción de pastos, lo que disminuye la producción de leche y carne, afectando gravemente la economía local\. Según la Federación de Ganaderos \(FEDEGAN\), en la sequía de 2014 – 2015 se reportó la pérdida de aproximadamente 24\.500 hectáreas y la muerte de 4\.700 cabezas de ganado en Córdoba \(CVS, 2018\)\.  
 
-![](media/img_44467d.png)
+![](media/img_ead0ee.png)
 
 <a id="_Toc216554611"></a>FIGURA 23 Mapa de municipios declarados en calamidad pública por desabastecimiento de agua potable\. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS \(2021\), versión pdf, pg\. 243\.
 
@@ -1581,7 +1581,7 @@ Prácticas inadecuadas, como quemas agrícolas y fogatas para ampliar la fronter
 
 Las inundaciones en el departamento del Córdoba son eventos recurrentes influenciados por lluvias intensas y fenómenos climáticos como “El Niño” y “La Niña”, lo que genera desbordamientos de ríos y graves afectaciones a la población, infraestructura y sector agropecuario \(IDEAM, 2020\)\.  Factores como la urbanización, la expansión agrícola y la construcción de infraestructura han modificado el comportamiento natural de las cuencas, aumentando la vulnerabilidad de los territorios \(UNGRD, 2021\)\.  
 
-![](media/img_8b07ae.png)
+![](media/img_8ddbd7.png)
 
 <a id="_Toc216554612"></a>FIGURA 24 Histórico de áreas afectadas por inundación en el departamento de Córdoba\. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS \(2021\), versión pdf, pg\. 196\.
 
@@ -1659,7 +1659,7 @@ La susceptibilidad a estos fenómenos está determinada por factores internos co
 
 Los municipios con mayor afectación se encuentran en la subregión de San Jorge, particularmente San José de Uré, Puerto Libertador y Montelíbano, donde la actividad minera y la explotación de recursos naturales han incrementado el riesgo de deslizamientos\. Históricamente, en San José de Uré se han registrado deslizamientos significativos en cerros como San Antonio, Filo de las Cruces y San Pedrito, con pérdidas humanas y materiales\. En el municipio de Valencia, hacia la cuenca del río Sinú, se han reportado movimientos en masa asociados a cortes de terreno sin medidas de protección y cambios en el uso del suelo \(CVS, 2021\)\.  
 
-![](media/img_a750b2.png)
+![](media/img_9c658d.png)
 
 <a id="_Toc216554613"></a>FIGURA 25 Zonificación de amenaza por movimientos en masa en el departamento de Córdoba\.   
 Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS \(2021\), versión pdf, pg\. 259\.
@@ -1710,7 +1710,7 @@ El Sistema de Información de Sismicidad Histórica de Colombia \(SISHC\), lider
 
 Adicionalmente, el Servicio Geológico Colombiano cuenta con un visor en el cual se puede consultar la información de los últimos sismos registrados en el país\. Para mayor información: [SGC \- Visor Sismos](https://www.sgc.gov.co/sismos) 
 
-![](media/img_5666a2.jpeg)
+![](media/img_5db756.jpeg)
 
 <a id="_Toc216554614"></a>FIGURA 26 Pérdida Anual Esperada por Sismo a nivel Municipal\. Fuente: Portal Geográfico del Conocimiento del riesgo de desastres \(2025\)\.
 
@@ -1728,7 +1728,7 @@ En términos generales, las costas de Colombia en el Pacífico y en el Caribe se
 
 El “Atlas de Riesgo de Colombia: revelando los desastres latentes” presenta mapas de amenaza por Tsunami para el caribe colombiano, asociado a un periodo de retorno de 475 años\.   
 
-![](media/img_d33d3a.jpeg)
+![](media/img_8e25ed.jpeg)
 
 <a id="_Toc216554615"></a>FIGURA\. 27 Mapa amenaza por tsunami – Atlántico\. Fuente: Atlas de riesgo de Colombia, UNGRD \(2021\), pg\. 38\.
 
@@ -1736,7 +1736,7 @@ El “Atlas de Riesgo de Colombia: revelando los desastres latentes” presenta 
 
 El Visor Atlas del riesgo de Colombia presenta mapas con pérdida anual esperada por Tsunami y pérdida anual esperada relativa por Tsunami a nivel departamental y municipal\.  
 
-![](media/img_8bf3e9.png)
+![](media/img_6b1810.png)
 
 <a id="_Toc216554616"></a>FIGURA\. 28 Mapa de pérdida Anual Esperada por Tsunami a nivel Municipal\. Fuente: Diagnostico de información del riesgo de desastres departamento de Córdoba, UNGRD \(2021\), pg\. 9\.
 
@@ -1754,13 +1754,13 @@ En la cuenca del río Sinú, los municipios más afectados por la erosión fluvi
 
 Entre los factores que agravan la situación están la regulación hidráulica de la represa URRÁ S\.A\., el uso del dique de cierre como vía y la presencia de cultivos con raíces que debilitan los taludes, como plátano, yuca y algodón \(CVS, 2021\)\. Se han identificado 206 puntos críticos de erosión, de los cuales el 8,74 % presenta riesgo alto, lo que evidencia la urgencia de medidas de mitigación \(CVS, 2021\)\.  
 
-![](media/img_cea5cd.png)
+![](media/img_853b76.png)
 
 <a id="_Toc216554617"></a>*FIGURA 29 Puntos críticos en la cuenca del río Sinú\. Fuente*: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS \(2021\), versión pdf, pg\. *212\.*
 
 *Link: *[*https://drive\.google\.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive\_link*](https://drive.google.com/file/d/1oj27ff9ZG4AUTwDZrFSv1SLVEEILtSWK/view?usp=drive_link)* *
 
-![](media/img_4bf9e5.png)
+![](media/img_330263.png)
 
 <a id="_Toc216554618"></a>FIGURA\. 30 Puntos Críticos en la cuenca del río San Jorge\. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS \(2021\), versión pdf, pg\. 216\.
 
@@ -1780,7 +1780,7 @@ El departamento de Córdoba cuenta con una línea de costa de 172,67 km, donde p
 
 Estudios indican que el 74 % de la costa presenta alta y muy alta vulnerabilidad a la erosión, siendo los sectores más afectados aquellos con acantilados bajos sin playas, que sufren un proceso de socavación en épocas secas y deslizamientos en temporadas de lluvias \(INVEMAR, 2018\)\.
 
-![](media/img_bd2597.png)
+![](media/img_3a6c3d.png)
 
 <a id="_Toc216554619"></a>FIGURA\. 31 Mapa de puntos críticos por Erosión Costera en el Departamento de Córdoba\. Fuente: : Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS \(2021\), versión pdf, pg\. 225\.
 
@@ -1802,7 +1802,7 @@ Diversos municipios del departamento presentan actividad de volcanismo de lodo c
 
 En conclusión, el análisis de la información define con un alto potencial de ocurrencia del fenómeno natural a los siguientes municipios: Valencia, Canalete, Moñito, Los Córdobas, Puerto Escondido, San Bernardo del Viento, San Antero\.
 
-![](media/img_e5800c.png)
+![](media/img_716ad9.png)
 
 <a id="_Toc216554620"></a>FIGURA\. 32 Mapa de municipios con presencia de volcanismo de lodo\. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS \(2021\), versión pdf, pg\. 276\.
 
@@ -1818,7 +1818,7 @@ El riesgo tecnológico<a id="footnote-ref-2"></a>[\[2\]](#footnote-2) en el depa
 
 En este contexto, Córdoba también enfrenta riesgos asociados a la industria termoeléctrica y de hidrocarburos, con infraestructura clave como la termoeléctrica Gecelca y la terminal de OCENSA en San Antero\. Estos proyectos demandan una planificación integral que minimice impactos ambientales y sociales, garantizando el equilibrio entre desarrollo económico y sostenibilidad \(Ordenanza 0009, 2020\)\.
 
-![](media/img_f014db.png)
+![](media/img_9ff31f.png)
 
 <a id="_Toc216554621"></a>FIGURA\. 33 Mapa de calor para riesgos Natech, accidentes tecnológicos reportados en el departamento de Córdoba entre 2011 y 2024\. Fuente: UNGRD \(2025\)
 
@@ -1828,7 +1828,7 @@ Este mapa de calor muestra las zonas del departamento de Córdoba con mayor ries
 
 Dentro de este panorama, las hidroeléctricas representan un factor clave en la gestión del riesgo tecnológico\. La Hidroeléctrica Urrá ubicada sobre el río Sinú, opera bajo licencia ambiental y es supervisada por la Autoridad Nacional de Licencias Ambientales \(ANLA\) para mitigar impactos como la erosión fluvial \(CVS, 2021\)\. En la Figura 29 se muestra la distribución y el tipo de industria manufacturera en el departamento clasificada por color, según información proporcionada por el DANE\. 
 
-![](media/img_d69258.png)
+![](media/img_1f3fe0.png)
 
 <a id="_Toc216554622"></a>FIGURA\. 34 Tipo de industrias y su ubicación en el departamento de Córdoba\.   
 Adaptado de: DANE, 2025\.
@@ -1837,7 +1837,7 @@ Adaptado de: DANE, 2025\.
 
 Este gráfico muestra los tipos de industrias presentes en Córdoba y su ubicación geográfica\. La actividad más común es el comercio de sustancias químicas,__ __combustibles y no__ __combustibles \(42 casos\), seguida por saneamiento de desechos no peligrosos \(33\) y transporte terrestre \(26\)\. En el mapa se observa que estas industrias están concentradas al norte y centro del departamento__,__ con algunas en el área del Parque Nacional Paramillo\. Actividades como minería e__ __industria alimenticia tienen menos presencia, pero también están distribuidas en varios puntos\. Esta información es clave para analizar posibles riesgos Natech en zonas industriales\.
 
-![](media/img_8a33a0.png)
+![](media/img_d5bcb2.png)
 
 <a id="_Toc216554623"></a>FIGURA\. 35 Ubicación de las Hidroeléctricas Urrá e Ituango\. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS \(2021\), versión pdf, pg\. 294\.
 
@@ -1853,7 +1853,7 @@ Los incendios forestales generan afectaciones severas en la biodiversidad, con l
 
 En el departamento de Córdoba, la ocurrencia de incendios forestales está estrechamente relacionada con la actividad humana, particularmente con la preparación de tierras para cultivos mediante la quema de vegetación, lo que ha alterado la cobertura vegetal en las cuencas hidrográficas y generado daños en el suelo \(CVS, 2019\)\. Las zonas con mayor riesgo de incendios incluyen el Alto Sinú, especialmente en el municipio de Valencia; la subregión del San Jorge, con incidencia en La Apartada, Buenavista y Ayapel; la subregión Costanera, destacándose Moñitos; y el Bajo Sinú, donde Cotorra presenta la mayor amenaza \(CVS, 2019\)\.  
 
-![](media/img_6ecca9.png)
+![](media/img_d3700a.png)
 
 <a id="_Toc216554624"></a>FIGURA\. 36 Mapa de amenaza por incendios forestales\. Fuente: Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba y CVS \(2021\), versión pdf, pg\. 234\.
 
