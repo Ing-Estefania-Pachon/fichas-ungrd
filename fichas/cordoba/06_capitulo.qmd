@@ -1,0 +1,92 @@
+---
+title: "6. REFERENCIAS"
+---
+
+
+==============
+
+Acuerdo 11 de 2008, de la Agencia Nacional de Hidrocarburos (ANH).
+[[https://www.suin-juriscol.gov.co/clp/contenidos.dll/Acuerdo/4000080?fn=document-frame.htm$f=templates$3.0]{.underline}](https://www.suin-juriscol.gov.co/clp/contenidos.dll/Acuerdo/4000080?fn=document-frame.htm$f=templates$3.0)
+
+Acuerdo 04 de 2017, de la Agencia Nacional de Hidrocarburos (ANH).
+[[https://www.anh.gov.co/documents/4041/Acuerdo-4-de-2017-Define-algunas-Areas-disponibles.pdf]{.underline}](https://www.anh.gov.co/documents/4041/Acuerdo-4-de-2017-Define-algunas-Areas-disponibles.pdf)
+
+FAO (2022). Análisis Departamental de Vulnerabilidad y Riesgo frente al
+Cambio Climático para el sector Agropecuario. Pág. 31.
+
+Unidad de Planificación Rural Agropecuaria (UPRA). (2024, 22 de agosto).
+Documento regional. Córdoba. Ministerio de Agricultura y Desarrollo
+Rural.
+[[https://upra.gov.co/Kit_Territorial/2-%20Informaci%C3%B3n%20por%20Departamentos/C%C3%93RDOBA/2-%20Documento%20Regional%20UPRA%20C%C3%B3rdoba.pdf]{.underline}](https://upra.gov.co/Kit_Territorial/2-%20Informaci%C3%B3n%20por%20Departamentos/C%C3%93RDOBA/2-%20Documento%20Regional%20UPRA%20C%C3%B3rdoba.pdf)
+
+GOBERNACION DE CORDOBA. (2022). Plan Departamental para la Gestión del
+Riesgo de Desastres 2022-2031. Córdoba. Colombia. Pag 384. 
+
+GOBERNACION DE CORDOBA (2024). Plan de Desarrollo Departamental "Córdoba
+Lo Tiene Todo Para Estar A Otro Nivel". Córdoba. Colombia. Pág. 552. 
+
+CVS. (2019). Protocolo local de estadísticas, análisis y medidas de
+manejo de incendios forestales en ecosistemas estratégicos del
+departamento de Córdoba. Corporación Autónoma Regional de los Valles del
+Sinú y del San Jorge -- CVS.
+
+CVS. (2020). Plan de Gestión Ambiental Regional 2020-2031. Córdoba.
+Colombia. Pág. 204.
+
+CVS. (2022). Plan Integral de Gestión del Cambio Climático Territorial,
+departamento de Córdoba. Corporación Autónoma Regional de los Valles del
+Sinú y del San Jorge -- CVS.
+
+ICANH (2025). Instituto Colombiano de Antropología e Historia. Geo visor
+De Hallazgos Y Áreas Arqueológicas Protegidas En Colombia. En
+<https://geoparques.icanh.gov.co/#/>
+
+IDEAM. (2018). La variabilidad climática y el cambio climático en
+Colombia. Instituto de Hidrología, Meteorología, y Estudios Ambientales
+-- IDEAM.
+
+INVEMAR. (2016). Formulación del Plan de Manejo Integrado de la Unidad
+Ambiental Costera Estuarina Río Sinú - Golfo de Morrosquillo, Caribe
+colombiano. Santa Marta. Colombia. 
+
+PNN (2025). Nuestros Parque, Región Caribe. Colombia. En
+<https://www.parquesnacionales.gov.co/nuestros-parques/#caribe>
+
+República de Colombia. (2012). Ley 1523. Bogotá: Presidencia de la
+República.
+
+UNGRD. (2018). Atlas de Riesgo de Colombia: Revelando los desastres
+latentes. Bogotá D.C., Colombia: Unidad Nacional para la Gestión del
+Riesgo de Desastres; Ingeniar Risk Intelligence.
+
+Viloria de la Hoz, J. (2004, noviembre). Documento de trabajo sobre
+economía regional No. 51. Banco de la República de Colombia.
+[[https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/DTSER-51.pdf]{.underline}](https://www.banrep.gov.co/sites/default/files/publicaciones/archivos/DTSER-51.pdf)
+
+-   *Para más información sobre el geoportal del Servicio Geológico
+    Colombiano (SGC), buscar en el siguiente link:
+    [[https://srvags.sgc.gov.co/jsViewer/Mapa_Geologico_colombiano_2023/]{.underline}](https://srvags.sgc.gov.co/jsViewer/Mapa_Geologico_colombiano_2023/)*
+     
+
+```{=html}
+<!-- -->
+```
+-   *Para más información sobre la cartografia geológica del
+    departamento de Cordoba en la plancha 62 -- La Ye, buscar en el
+    siguiente link:
+    [[https://miig.sgc.gov.co/Paginas/Resultados.aspx?k=Cartograf%C3%ADa+geol%C3%B3gica+de+la+plancha+62+La+Ye,+departamentos+de+C%C3%B3rdoba+y+Sucre]{.underline}](https://miig.sgc.gov.co/Paginas/Resultados.aspx?k=Cartograf%C3%ADa+geol%C3%B3gica+de+la+plancha+62+La+Ye,+departamentos+de+C%C3%B3rdoba+y+Sucre)*
+
+```{=html}
+<!-- -->
+```
+-   Link del Geovisor de los Parques nacionales naturales de Colombia.
+    [[https://mapas.parquesnacionales.gov.co/]{.underline}](https://mapas.parquesnacionales.gov.co/)
+
+```{=html}
+<!-- -->
+```
+-   Link del Geovisor de áreas arqueológicas protegidas por la autoridad
+    ICANH.
+
+[[https://geoparques.icanh.gov.co/#/]{.underline}](https://geoparques.icanh.gov.co/#/)
+

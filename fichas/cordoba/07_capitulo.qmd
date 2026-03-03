@@ -1,0 +1,370 @@
+---
+title: "7. GLOSARIO"
+---
+
+
+===========
+
+Amenaza: Fenómeno físico, natural, socio-natural o antrópico que
+puede ocasionar daños a la población, la infraestructura o el ambiente,
+dependiendo de la vulnerabilidad existente en el territorio.
+
+Cuenca hidrográfica: Unidad territorial delimitada por el conjunto
+de aguas que drenan hacia un mismo río, lago o mar, considerada base
+para la planificación hídrica y ambiental.
+
+Ecosistemas estratégicos: Áreas naturales con funciones ecológicas
+esenciales, tales como la regulación hídrica, conservación de
+biodiversidad o protección contra fenómenos climáticos.
+
+Geología económica: Rama de la geología enfocada en el estudio de
+los recursos minerales y energéticos presentes en el territorio y su
+potencial de aprovechamiento.
+
+Geomorfología: Ciencia que estudia las formas del relieve terrestre,
+su origen y dinámica, así como los procesos naturales y antrópicos que
+las modifican.
+
+Gestión del Riesgo de Desastres (GRD): Proceso social que formula,
+ejecuta y evalúa políticas, planes y acciones para la reducción del
+riesgo, el manejo de desastres y la recuperación sostenible.
+
+Inundación: Evento hidrometeorológico caracterizado por el
+desbordamiento temporal de ríos, quebradas o cuerpos de agua que afecta
+a las poblaciones y al entorno.
+
+Movimientos en masa: Procesos de inestabilidad de laderas como
+deslizamientos, flujos o caídas de rocas y suelos, provocados por
+factores naturales o antrópicos.
+
+Ordenamiento Territorial (POT): Herramienta de planificación que
+regula el uso, ocupación y transformación del suelo en municipios y
+distritos, buscando el equilibrio entre desarrollo y sostenibilidad.
+
+Patrimonio arqueológico: Conjunto de bienes materiales e
+inmateriales de origen prehispánico o histórico, con valor científico y
+cultural, protegidos por la normatividad nacional.
+
+POMCA (Plan de Ordenación y Manejo de Cuencas Hidrográficas):
+Instrumento de planificación ambiental que orienta el uso, manejo y
+conservación de las cuencas hidrográficas con criterios de
+sostenibilidad.
+
+Riesgo Natech: El riesgo Natech es aquel que surge cuando un evento
+de origen natural desencadena un accidente tecnológico, generando
+consecuencias potencialmente graves sobre la población, el ambiente y la
+infraestructura crítica (Krausmann et al., 2017; Showalter & Myers,
+1994).
+
+Resiliencia: Capacidad de los sistemas sociales, económicos y
+ambientales para resistir, adaptarse y recuperarse eficazmente frente a
+los efectos de amenazas o desastres.
+
+Sequía: Período prolongado de déficit en la disponibilidad de agua
+respecto a los niveles normales, que impacta ecosistemas, agricultura,
+infraestructura y calidad de vida.
+
+Variabilidad climática: Fluctuaciones naturales de las condiciones
+atmosféricas a corto y mediano plazo, asociadas a fenómenos como El Niño
+y La Niña, que inciden en la disponibilidad hídrica y el riesgo
+climático.
+
+Vulnerabilidad: Condiciones físicas, sociales, económicas y
+ambientales que incrementan la susceptibilidad de una comunidad o
+ecosistema frente al impacto de una amenaza.
+
+[^1]: Geovisor de áreas arqueológicas protegidas:
+    <https://geoparques.icanh.gov.co/#/>   
+
+[^2]: Riesgo tecnológico: Daños o pérdidas potenciales que pueden
+    presentarse debido a los eventos generados por el uso y acceso a la
+    tecnología, originados en sucesos antrópicos, naturales,
+    socio-naturales y propios de la operación (UNGRD, Resolución 1770 de
+    2013).
+
+
+# ANEXOS
+LISTADO DE FIGURAS
+
+[LISTADO DE FIGURAS 3](#listado-de-figuras)
+
+[FIGURA. 1 Mapa Político Administrativo del Departamento de Córdoba.
+Fuente: IGAC (2002).
+8](#figura.-1-mapa-político-administrativo-del-departamento-de-córdoba.-fuente-igac-2002.)
+
+[FIGURA. 2 Distribución demográfica del departamento de Córdoba. FUENTE:
+Tomado de la proyección DANE (2024), pg. 1 y 2. 10](#_Toc216554590)
+
+[FIGURA. 3 Participación por actividad económica en el departamento de
+Córdoba. 2022. Fuente: UPRA-DANE, pg. 8.
+11](#figura.-3-participación-por-actividad-económica-en-el-departamento-de-córdoba.-2022.-fuente-upra-dane-pg.-8.)
+
+[FIGURA 4 MAPA GEOLOGICO DE COLOMBIA, ESCALA 1:1'500.000. FUENTE:
+Gómez, J., Montes, N.E. & Marín, E., compiladores. 2023.
+15](#figura-4-mapa-geologico-de-colombia-escala-11500.000.-fuente-gómez-j.-montes-n.e.-marín-e.-compiladores.-2023.)
+
+[FIGURA. 5 Mapa geológico de Córdoba, pagina 74. FUENTE: Plan
+Departamental de Gestión del Riesgo de Desastres - PDGRD (2022 - 2031),
+pg. 82.
+16](#figura.-5-mapa-geológico-de-córdoba-pagina-74.-fuente-plan-departamental-de-gestión-del-riesgo-de-desastres---pdgrd-2022---2031-pg.-82.)
+
+[FIGURA 6 Cuencas sedimentaria Sinú-San Jacinto (SSJ) en el departamento
+de Córdoba. FUENTE: ANH (2011)
+18](#figura-6-cuencas-sedimentaria-sinú-san-jacinto-ssj-en-el-departamento-de-córdoba.-fuente-anh-2011)
+
+[FIGURA. 7 Mapa de las redes de gasoductos en la costa caribe. FUENTE:
+Promigas (2025)
+19](#figura.-7-mapa-de-las-redes-de-gasoductos-en-la-costa-caribe.-fuente-promigas-2025)
+
+[FIGURA. 8 Regiones climáticas en el Departamento de Córdoba, pagina 7.
+Fuente: FAO-IDEAM (2022).
+20](#figura.-8-regiones-climáticas-en-el-departamento-de-córdoba-pagina-7.-fuente-fao-ideam-2022.)
+
+[FIGURA 9. Variabilidad climática del "Niño" y "Niña" en las regiones
+climáticas, páginas 10 y 11. Fuente: FAO (2022).
+21](#figura-9.-variabilidad-climática-del-niño-y-niña-en-las-regiones-climáticas-páginas-10-y-11.-fuente-fao-2022.)
+
+[FIGURA 10 Indicadores de la tercera comunicación de cambio climático
+del departamento. FUENTE: Tomado de IDEAM & UNGRD (2025).
+22](#figura-10-indicadores-de-la-tercera-comunicación-de-cambio-climático-del-departamento.-fuente-tomado-de-ideam-ungrd-2025.)
+
+[FIGURA 11 Indicadores de cambio climático por municipio del
+departamento de Córdoba. Fuente: Tomado de IDEAM (2022).
+23](#figura-11-indicadores-de-cambio-climático-por-municipio-del-departamento-de-córdoba.-fuente-tomado-de-ideam-2022.)
+
+[FIGURA 12 ESCENARIOS DE CAMBIO CLIMATICO PROYECTADOS POR AR 6. FUENTE:
+Escoto Castillo et al . (2017)
+25](#figura-12-escenarios-de-cambio-climatico-proyectados-por-ar-6.-fuente-escoto-castillo-et-al-.-2017)
+
+[FIGURA 13 TENDENCIAS Y PROYECCIONES PARA LOS ESCENARIOS DE
+PRECIPITACION AL DEPARTAMENTO DE CORDOBA. FUENTE: IDEAM (2025)
+27](#figura-13-tendencias-y-proyecciones-para-los-escenarios-de-precipitacion-al-departamento-de-cordoba.-fuente-ideam-2025)
+
+[FIGURA 14 TENDENCIAS Y PROYECCIONES PARA LOS ESCENARIOS DE TEMPERATURAS
+MAXIMAS ANUALES EN EL DEPARTAMENTO DE CORDOBA. FUENTE: IDEAM (2025)
+28](#figura-14-tendencias-y-proyecciones-para-los-escenarios-de-temperaturas-maximas-anuales-en-el-departamento-de-cordoba.-fuente-ideam-2025)
+
+[FIGURA 15 Mapa de las subregiones ambientales del departamento. FUENTE:
+Fundación Herencia Ambiental Caribe (2020)
+30](#figura-15-mapa-de-las-subregiones-ambientales-del-departamento.-fuente-fundación-herencia-ambiental-caribe-2020)
+
+[FIGURA 16 Visor web del ICANH. Fuente:
+https://geoparques.icanh.gov.co/#/
+32](#figura-16-visor-web-del-icanh.-fuente-httpsgeoparques.icanh.gov.co)
+
+[FIGURA 17 Áreas protegidas en el Departamento de Córdoba. Fuente: RUNAP
+-- PNN 2025
+33](#figura-17-áreas-protegidas-en-el-departamento-de-córdoba.-fuente-runap-pnn-2025.)
+
+[FIGURA 18 Mapa hidrográfico del departamento de Córdoba. FUENTE:
+Sociedad Geográfica de Colombia
+35](#figura-18-mapa-hidrográfico-del-departamento-de-córdoba.-fuente-sociedad-geográfica-de-colombia)
+
+[FIGURA. 19 Consolidado de eventos históricos en el Departamento de
+Córdoba (1938-2023). Fuente: UNGRD (2024)
+36](#figura.-19-consolidado-de-eventos-históricos-en-el-departamento-de-córdoba-1938-2023.-fuente-ungrd-2024)
+
+[FIGURA 20 Reporte de afectaciones por eventos presentados en el
+departamento de Córdoba (1938-2024). Fuente: UNGRD (2024)
+36](#figura-20-reporte-de-afectaciones-por-eventos-presentados-en-el-departamento-de-córdoba-1938-2024.-fuente-ungrd-2024)
+
+[FIGURA 21 Reporte de afectaciones en municipios por eventos presentados
+en el departamento de Córdoba (1938-2024). Fuente: UNGRD (2024)
+37](#figura-21-reporte-de-afectaciones-en-municipios-por-eventos-presentados-en-el-departamento-de-córdoba-1938-2024.-fuente-ungrd-2024)
+
+[FIGURA 22 Mapa de municipios afectados por vendavales en el
+departamento de Córdoba. Fuente: Plan Departamental de Gestión del
+Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf,
+pg. 251.
+39](#figura-22-mapa-de-municipios-afectados-por-vendavales-en-el-departamento-de-córdoba.-fuente-plan-departamental-de-gestión-del-riesgo-de-desastres-gobernación-de-córdoba-y-cvs-2021-versión-pdf-pg.-251.)
+
+[FIGURA 23 Mapa de municipios declarados en calamidad pública por
+desabastecimiento de agua potable. Fuente: Plan Departamental de Gestión
+del Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión
+pdf, pg. 243.
+40](#figura-23-mapa-de-municipios-declarados-en-calamidad-pública-por-desabastecimiento-de-agua-potable.-fuente-plan-departamental-de-gestión-del-riesgo-de-desastres-gobernación-de-córdoba-y-cvs-2021-versión-pdf-pg.-243.)
+
+[FIGURA 24 Histórico de áreas afectadas por inundación en el
+departamento de Córdoba. Fuente: Plan Departamental de Gestión del
+Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf,
+pg. 196.
+41](#figura-24-histórico-de-áreas-afectadas-por-inundación-en-el-departamento-de-córdoba.-fuente-plan-departamental-de-gestión-del-riesgo-de-desastres-gobernación-de-córdoba-y-cvs-2021-versión-pdf-pg.-196.)
+
+[FIGURA 25 Zonificación de amenaza por movimientos en masa en el
+departamento de Córdoba. Fuente: Plan Departamental de Gestión del
+Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf,
+pg. 259.
+43](#figura-25-zonificación-de-amenaza-por-movimientos-en-masa-en-el-departamento-de-córdoba.-fuente-plan-departamental-de-gestión-del-riesgo-de-desastres-gobernación-de-córdoba-y-cvs-2021-versión-pdf-pg.-259.)
+
+[FIGURA 26 Pérdida Anual Esperada por Sismo a nivel Municipal. Fuente:
+Portal Geográfico del Conocimiento del riesgo de desastres (2025).
+44](#figura-26-pérdida-anual-esperada-por-sismo-a-nivel-municipal.-fuente-portal-geográfico-del-conocimiento-del-riesgo-de-desastres-2025.)
+
+[FIGURA. 27 Mapa amenaza por tsunami -- Atlántico. Fuente: Atlas de
+riesgo de Colombia, UNGRD (2021), pg. 38.
+45](#figura.-27-mapa-amenaza-por-tsunami-atlántico.-fuente-atlas-de-riesgo-de-colombia-ungrd-2021-pg.-38.)
+
+[FIGURA. 28 Mapa de pérdida Anual Esperada por Tsunami a nivel
+Municipal. Fuente: Diagnostico de información del riesgo de desastres
+departamento de Córdoba, UNGRD (2021), pg. 9.
+45](#figura.-28-mapa-de-pérdida-anual-esperada-por-tsunami-a-nivel-municipal.-fuente-diagnostico-de-información-del-riesgo-de-desastres-departamento-de-córdoba-ungrd-2021-pg.-9.)
+
+[FIGURA 29 Puntos críticos en la cuenca del río Sinú. Fuente: Plan
+Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba
+y CVS (2021), versión pdf, pg. 212.
+47](#figura-29-puntos-críticos-en-la-cuenca-del-río-sinú.-fuente-plan-departamental-de-gestión-del-riesgo-de-desastres-gobernación-de-córdoba-y-cvs-2021-versión-pdf-pg.-212.)
+
+[FIGURA. 30 Puntos Críticos en la cuenca del río San Jorge. Fuente: Plan
+Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba
+y CVS (2021), versión pdf, pg. 216.
+48](#figura.-30-puntos-críticos-en-la-cuenca-del-río-san-jorge.-fuente-plan-departamental-de-gestión-del-riesgo-de-desastres-gobernación-de-córdoba-y-cvs-2021-versión-pdf-pg.-216.)
+
+[FIGURA. 31 Mapa de puntos críticos por Erosión Costera en el
+Departamento de Córdoba. Fuente: : Plan Departamental de Gestión del
+Riesgo de Desastres, Gobernación de Córdoba y CVS (2021), versión pdf,
+pg. 225.
+49](#figura.-31-mapa-de-puntos-críticos-por-erosión-costera-en-el-departamento-de-córdoba.-fuente-plan-departamental-de-gestión-del-riesgo-de-desastres-gobernación-de-córdoba-y-cvs-2021-versión-pdf-pg.-225.)
+
+[FIGURA. 32 Mapa de municipios con presencia de volcanismo de lodo.
+Fuente: Plan Departamental de Gestión del Riesgo de Desastres,
+Gobernación de Córdoba y CVS (2021), versión pdf, pg. 276.
+50](#figura.-32-mapa-de-municipios-con-presencia-de-volcanismo-de-lodo.-fuente-plan-departamental-de-gestión-del-riesgo-de-desastres-gobernación-de-córdoba-y-cvs-2021-versión-pdf-pg.-276.)
+
+[FIGURA. 33 Mapa de calor para riesgos Natech, accidentes tecnológicos
+reportados en el departamento de Córdoba entre 2011 y 2024. Fuente:
+UNGRD (2025)
+51](#figura.-33-mapa-de-calor-para-riesgos-natech-accidentes-tecnológicos-reportados-en-el-departamento-de-córdoba-entre-2011-y-2024.-fuente-ungrd-2025)
+
+[FIGURA. 34 Tipo de industrias y su ubicación en el departamento de
+Córdoba. Adaptado de: DANE, 2025.
+52](#figura.-34-tipo-de-industrias-y-su-ubicación-en-el-departamento-de-córdoba.-adaptado-de-dane-2025.)
+
+[FIGURA. 35 Ubicación de las Hidroeléctricas Urrá e Ituango. Fuente:
+Plan Departamental de Gestión del Riesgo de Desastres, Gobernación de
+Córdoba y CVS (2021), versión pdf, pg. 294.
+53](#figura.-35-ubicación-de-las-hidroeléctricas-urrá-e-ituango.-fuente-plan-departamental-de-gestión-del-riesgo-de-desastres-gobernación-de-córdoba-y-cvs-2021-versión-pdf-pg.-294.)
+
+[FIGURA. 36 Mapa de amenaza por incendios forestales. Fuente: Plan
+Departamental de Gestión del Riesgo de Desastres, Gobernación de Córdoba
+y CVS (2021), versión pdf, pg. 234.
+54](#figura.-36-mapa-de-amenaza-por-incendios-forestales.-fuente-plan-departamental-de-gestión-del-riesgo-de-desastres-gobernación-de-córdoba-y-cvs-2021-versión-pdf-pg.-234.)
+
+LISTADO DE TABLAS
+
+[Tabla 1 Municipios del departamento de Córdoba. Fuente: Autor (2025).
+10](#_Toc216552971)
+
+[Tabla 2 Instrumentos de ordenamiento territorial municipal.
+13](#_Toc216552972)
+
+[Tabla 3 Instrumentos POMCA en el departamento. Fuente: CVS (2024)
+14](#_Toc216552973)
+
+[Tabla 4 Instrumento de Adaptación al Cambio Climático. Fuente: Autor
+(2025). 14](#_Toc216552974)
+
+[Tabla 5 Instrumentos departamentales de planificación en Gestión del
+Riesgo de Desastres. 15](#_Toc216552975)
+
+[Tabla 6. Tipos de uso de suelo en el Departamento de Córdoba. Fuente:
+CVS (2023) 18](#_Toc216552976)
+
+[Tabla 7 Parques Nacionales Naturales en el departamento. FUENTE: PNN
+(2025). 32](#_Toc216552977)
+
+[Tabla 8 Hallazgos arqueológicos en el departamento. Fuente: ICANH
+(2025). 33](#_Toc216552978)
+
+[Tabla 9 Ecosistemas estratégicos registrados en el RUNAP. Fuente:
+Autores adaptado del RUNAP. 34](#_Toc216552979)
+
+[Tabla 10 Tipos de ecosistemas en el Departamento de Córdoba. Fuente:
+CVS (2022). 35](#_Toc216552980)
+
+[Tabla 11 Fuentes hídricas en jurisdicción del departamento de Córdoba.
+Fuente: Autor (2024). 36](#_Toc216552981)
+
+[Tabla 12 Eventos priorizados en el Departamento de Córdoba. Fuente:
+PDGRD (2023). 39](#_Toc216552982)
+
+[Tabla 13 Priorización de municipios con escenarios de amenaza por
+avenidas torrenciales. Fuente: UNGRD (2022). 44](#_Toc216552983)
+
+[Tabla 14 Municipios con amenaza sísmica intermedia en el departamento.
+Fuente: UNGRD (2021). 46](#_Toc216552984)
+
+[Tabla 15 Evidencias del programa en el municipio de Ayapel. FUENTE:
+UNGRD (2024). 59](#_Toc216552985)
+
+[Tabla 16 Sistematización de los mapas comunitarios de amenaza por
+incendios de cobertura, inundación y erosión fluvial. FUENTE: UNGRD
+(2025). 59](#_Toc216552986)
+
+[Tabla 17 Mapa de actores estratégicos de la experiencia participativa
+en el municipio de Ayapel. FUENTE: UNGRD (2025). 60](#_Toc216552987)
+
+[Tabla 18 Evidencias de la experiencia participativa en el municipio.
+FUENTE: UNGRD (2025). 62](#_Toc216552988)
+
+[Tabla 19 Sistematización de los mapas comunitarios de amenaza por
+inundación, incendios de cobertura, Sequia y Vendavales; en el municipio
+de La Apartada. FUENTE: UNGRD (2025). 63](#_Toc216552989)
+
+[Tabla 20 Mapa de actores estratégicos en el municipio de La Apartada.
+FUENTE: UNGRD (2025). 64](#_Toc216552990)
+
+SIGLAS
+
+ANH: Agencia Nacional de Hidrocarburos.
+
+ANM: Agencia Nacional de Minería.
+
+CAR: Corporación Autónoma Regional.
+
+CVS: Corporación Autónoma Regional de los Valles del Sinú y del San
+Jorge.
+
+DANE: Departamento Administrativo Nacional de Estadística.
+
+DNP: Departamento Nacional de Planeación.
+
+FAO: Organización de las Naciones Unidas para la Alimentación y la
+Agricultura.
+
+FEDEGAN: Federación Colombiana de Ganaderos.
+
+ICANH: Instituto Colombiano de Antropología e Historia.
+
+IDEAM: Instituto de Hidrología, Meteorología y Estudios Ambientales.
+
+IGAC: Instituto Geográfico Agustín Codazzi.
+
+INVEMAR: Instituto de Investigaciones Marinas y Costeras.
+
+PNN: Parques Nacionales Naturales.
+
+POMCA: Plan de Ordenación y Manejo de Cuencas Hidrográficas.
+
+POT: Plan de Ordenamiento Territorial.
+
+SGC: Servicio Geológico Colombiano.
+
+SNGRD: Sistema Nacional de Gestión del Riesgo de Desastres.
+
+UNGRD: Unidad Nacional para la Gestión del Riesgo de Desastres.
+
+UNHCR: United Nations High Commissioner for Refugees.
+
+UPRA: Unidad de Planificación Rural Agropecuaria
+
+NSR-10: Norma Sismo Resistente del 2010.
+
+SISCH: Sistema de Información de Sismicidad Histórica de Colombia.
+
+PAE: Pérdida Anual Esperada.
+
+PDGRD: Plan Departamental Gestión del Riesgo de Desastres.
+
+1. INTRODUCCIÓN
+---------------
+
