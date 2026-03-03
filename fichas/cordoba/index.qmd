@@ -1,9 +1,41 @@
 ---
-title: "Cordoba"
-format: html
-toc: true
-frozen: false
+title: "Ficha Departamental de Caracterización de Riesgo: Cordoba"
+author:
+  - name: Unidad Nacional para la Gestión del Riesgo de Desastres
+    affiliation: "Subdirección para el Conocimiento del Riesgo - UNGRD"
+date: "2025"
+keywords:
+  - Gestión del Riesgo
+  - Amenazas Naturales
+  - Cordoba
+  - UNGRD
+  - Colombia
 title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
+title-block-banner-color: "white"
+css:
+  - ../../custom.scss
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: false
+    reference-location: section
+    include-in-header:
+      - text: |
+          <meta name="citation_title" content="Ficha Departamental de Riesgo: Cordoba">
+          <meta name="citation_author" content="UNGRD">
+          <meta name="citation_language" content="es">
+          <meta name="citation_keywords" content="gestión del riesgo, Cordoba, UNGRD, amenazas">
+  pdf:
+    documentclass: article
+    geometry: margin=1in
+    number-sections: false
+    colorlinks: true
+crossref:
+  fig-prefix: "Figura"
+  tbl-prefix: "Tabla"
+  chapters: false
+frozen: false
 ---
 
 
