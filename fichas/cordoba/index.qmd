@@ -9,7 +9,6 @@ keywords:
   - Amenazas Naturales
   - Cordoba
   - UNGRD
-  - Colombia
 title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
 title-block-banner-color: "white"
 css:
@@ -20,17 +19,6 @@ format:
     toc: true
     number-sections: false
     reference-location: section
-    include-in-header:
-      - text: |
-          <meta name="citation_title" content="Ficha Departamental de Riesgo: Cordoba">
-          <meta name="citation_author" content="UNGRD">
-          <meta name="citation_language" content="es">
-          <meta name="citation_keywords" content="gestión del riesgo, Cordoba, UNGRD, amenazas">
-  pdf:
-    documentclass: article
-    geometry: margin=1in
-    number-sections: false
-    colorlinks: true
 crossref:
   fig-prefix: "Figura"
   tbl-prefix: "Tabla"
@@ -39,6 +27,7 @@ frozen: false
 ---
 
 
+::: {#resumen}
 # 1. INTRODUCCIÓN
 
 1. Objetivo de la ficha departamental
@@ -106,6 +95,7 @@ Agustín Codazzi (IGAC), el Servicio Geológico Colombiano (SGC), el
 Instituto de Investigaciones Marinas y Costeras (INVEMAR), y diversas
 Corporaciones Autónomas Regionales (CAR).
 
+:::
 # 2. CARACTERIZACIÓN TERRITORIAL Y AMBIENTAL
 ------------------------------------------
 
