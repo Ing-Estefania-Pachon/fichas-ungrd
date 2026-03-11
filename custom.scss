@@ -146,3 +146,33 @@ th {
    ========================================================================== */
 #refs { list-style-type: decimal !important; padding-left: 2rem; }
 .csl-entry { display: list-item !important; margin-bottom: 0.8rem; }
+
+/* ==========================================================================
+   9. AJUSTES DINÁMICOS DEL BANNER Y TÍTULOS DE CAPÍTULO
+   ========================================================================== */
+
+/* 1. Ocultamos el título del capítulo ÚNICAMENTE dentro del banner */
+#title-block-header h1.title,
+.quarto-title-block .title,
+header.quarto-title-block h1.title {
+    display: none !important;
+}
+
+/* 2. Convertimos el subtítulo (Departamento) en el texto gigante del banner */
+#title-block-header .subtitle,
+.quarto-title-block .subtitle {
+    font-size: 3rem !important;
+    font-weight: 800 !important;
+    color: #000000 !important;
+    text-transform: uppercase;
+    margin-top: 1rem !important;
+}
+
+/* 3. Aseguramos que el Título 1 (Capítulo) debajo del banner se vea corporativo */
+main h1:first-of-type {
+    margin-top: 1rem !important;
+    font-size: 2rem !important;
+    color: #1f2937 !important;
+    border-bottom: 3px solid #3b82f6 !important; /* Línea azul decorativa */
+    padding-bottom: 0.5rem;
+}
