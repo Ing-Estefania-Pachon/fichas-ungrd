@@ -1,5 +1,5 @@
 ---
-title: "Ficha Departamental: Cordoba"
+title: "Cordoba"
 author:
   - name: "Unidad Nacional para la Gestión del Riesgo de Desastres"
     affiliations:
