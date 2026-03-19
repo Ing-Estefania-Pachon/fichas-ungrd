@@ -1,6 +1,13 @@
 ---
 title: "6. REFERENCIAS"
 subtitle: "Ficha Departamental: Cordoba"
+author:
+  - name: "Unidad Nacional para la Gestión del Riesgo de Desastres"
+    affiliations:
+      - name: "Subdirección para el Conocimiento del Riesgo - UNGRD"
+date: "2026"
+title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072"
+title-block-banner-color: "black"
 ---
 
 # 6. REFERENCIAS

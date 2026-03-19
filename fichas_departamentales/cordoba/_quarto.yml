@@ -21,9 +21,6 @@ format:
     theme:
       - cosmo
       - ../../custom.scss
-    title-block-banner: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072" # Restaura el banner dinámico
-    title-block-banner-color: "black" # O el color de tu preferencia
-    title-block-style: "default"      # Forzar la visualización predeterminada
     toc: true
 crossref:
   fig-prefix: "Figura"
